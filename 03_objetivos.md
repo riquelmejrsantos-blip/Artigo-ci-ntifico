@@ -6,11 +6,11 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`É possível estabelecer uma relação sustentável entre a tecnologia e o meio ambiente?`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`Analisar os impactos ambientais que o consumo excessivo da tecnologia pode causar.`
 
 ## Objetivos específicos
 
