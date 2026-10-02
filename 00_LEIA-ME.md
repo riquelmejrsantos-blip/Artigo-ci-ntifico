@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[Análise e Desenvolvimento de Sistemas]`
-- Professor ou orientador: `[Isabela Luiza]`
-- Grupo: `[Riquelme Santos]`
-- Integrantes: `[Riquelme Santos]`
-- Data de início: `[01/10/2026]`
+- Curso e disciplina: `Análise e Desenvolvimento de Sistemas`
+- Professor ou orientador: `Isabela Luiza`
+- Grupo: `Riquelme Santos`
+- Integrantes: `Riquelme Santos`
+- Data de início: `01/10/2026`
 
 
 
