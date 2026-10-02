@@ -50,8 +50,4 @@ Tema delimitado e justificativa.
 - [✓] O recorte está claro.
 - [✓] O tema foi validado pelo professor.
 
-## Contribuições
 
-| Integrante | Atividade realizada |
-|---|---|
-| `Riquelme` | `Pesquisa, desenvolvimento do tema, preenchimento dos requisitos.` |
