@@ -6,16 +6,16 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[Tecnologia Verde e Sustentabilidade Ambiental (Green IT)]`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[É possível estabelecer uma relação sustentável entre a tecnologia e o meio ambiente?]`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
+- O que se deseja descobrir ou compreender? `[A tecnologia trouxe benefícios, bem como, malefícios.]`
+- Qual é o objeto da pergunta? `[Compreender]`
 - Qual é o contexto ou recorte? `[preencher]`
 - A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
 - Por que essa pergunta é relevante? `[preencher]`
