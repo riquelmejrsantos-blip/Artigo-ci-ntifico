@@ -8,8 +8,8 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-- **Título do artigo:** 
-- **Versão revisada:** 1.0 (Final)
+- **Título do artigo:** Tecnologia Verde (Green IT) e o consumo excessivo de água potável em Data Centers
+- **Versão revisada:** 3.0 (Final)
 - **Data:** 15/10/2026
 - **Responsável pela conferência final:** Riquelme Santos
 
