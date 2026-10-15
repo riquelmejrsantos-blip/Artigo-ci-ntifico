@@ -8,7 +8,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ---
 
-# Tecnologia Verde e Sustentabilidade Ambiental (Green IT) e o consumo excessivo de água potável em Data Centers
+# Tecnologia Verde (Green IT) e o consumo excessivo de água potável em Data Centers
 
 ## Palavras-chave
 
