@@ -10,7 +10,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivo geral
 
-`Analisar os impactos ambientais que o consumo excessivo da tecnologia pode causar.`
+`Analisar os impactos ambientais que o consumo excessivo da água potável para a tecnologia podem causar.`
 
 ## Objetivos específicos
 
