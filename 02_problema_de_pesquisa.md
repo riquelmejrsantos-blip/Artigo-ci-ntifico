@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`Tecnologia Verde e Sustentabilidade Ambiental (Green IT)`
+`Tecnologia Verde e Sustentabilidade Ambiental (Green IT) e o consumo excessivo de água potável em Data Centers`
 
 ## Pergunta de pesquisa
 
