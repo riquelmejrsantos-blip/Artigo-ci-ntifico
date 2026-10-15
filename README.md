@@ -1,3 +1,4 @@
-# Resumo
-Resumpo de natureza teórica e perspectiva qualitativa com base em artigos científicos.
+## Resumo
+
+O avanço da infraestrutura digital e da Inteligência Artificial intensificou o debate sobre a sustentabilidade da tecnologia. Embora a pegada de carbono seja amplamente discutida, o consumo de água potável no resfriamento de data centers é um problema emergente. De natureza teórica e perspectiva qualitativa, este estudo analisa o impacto do consumo de água limpa no resfriamento de servidores e avalia estratégias de mitigação na literatura recente. Foi realizada uma revisão integrativa com base em artigos científicos publicados entre 2021 e 2026 nas bases Nature, IEEE Xplore e EESI. Os resultados indicam que o resfriamento evaporativo tradicional desperdiça milhões de litros de água potável das redes públicas, cenário agravado pelo treinamento de modelos de linguagem de grande porte. Conclui-se que a transição para sistemas de resfriamento em circuito fechado e o agendamento algorítmico consciente são urgentes para conter o estresse hídrico gerado pela TI.
 
