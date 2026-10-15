@@ -1,2 +1,3 @@
-#Resumo de natureza teórica e perspectiva qualitativa com base em artigos científicos.
+# # # Resumo
+Resumpo de natureza teórica e perspectiva qualitativa com base em artigos científicos.
 
