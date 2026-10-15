@@ -62,3 +62,6 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 | **Revisão da Literatura** | Linguagem excessivamente rebuscada na explicação das soluções técnicas de mitigação. | Simplificada a linguagem para tornar a leitura mais direta, dividindo com clareza as soluções de hardware e software. | Riquelme Santos |
 | **Metodologia** | Ausência do detalhamento dos critérios de exclusão específicos dos artigos. | Incluído o critério de exclusão de trabalhos focados unicamente na eficiência elétrica sem abordagem de consumo hídrico. | Riquelme Santos |
 | **Referências** | Formatação de padrão de autores e destaques de títulos desalinhados. | Padronização dos títulos em negrito e conferência dos links e DOIs nas três referências citadas. | Riquelme Santos |
+
+
+
