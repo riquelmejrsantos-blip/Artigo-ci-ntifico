@@ -8,7 +8,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ---
 
-# Pegada Hídrica da TI: O Consumo de Água Potável no Resfriamento de Data Centers e Estratégias de Mitigação
+# Tecnologia Verde e Sustentabilidade Ambiental (Green IT) e o consumo excessivo de água potável em Data Centers
 
 ## Palavras-chave
 
@@ -20,7 +20,7 @@ O avanço da infraestrutura digital e da Inteligência Artificial intensificou o
 
 ## Introdução
 
-O crescimento acelerado do ecossistema digital e a expansão do processamento em nuvem demandam infraestruturas de computação cada vez mais robustas. Historicamente, os estudos em Tecnologia Verde concentraram-se na eficiência energética e na pegada de carbono. No entanto, a operação de data centers gera um impacto ambiental direto e frequentemente negligenciado: o consumo maciço de água potável para o resfriamento térmico dos servidores. Torres de resfriamento evaporativo captam recursos hídricos potáveis das redes municipais e dissipam esse volume na atmosfera em forma de vapor. Diante da escassez hídrica global, o uso de água potável para a infraestrutura de TI configura um desafio ambiental e social crítico. Assim, o problema central desta pesquisa é compreender como o resfriamento de data centers afeta as reservas locais de água potável e quais estratégias podem mitigar essa dependência. O objetivo deste estudo é analisar o impacto do consumo hídrico nas infraestruturas computacionais e identificar as soluções tecnológicas e algorítmicas de sustentabilidade.
+Desse forma, o crescimento acelerado do ecossistema digital e a expansão do processamento em nuvem demandam infraestruturas de computação cada vez mais robustas. Historicamente, os estudos em Tecnologia Verde concentraram-se na eficiência energética e na pegada de carbono. No entanto, a operação de data centers gera um impacto ambiental direto e frequentemente negligenciado: o consumo maciço de água potável para o resfriamento térmico dos servidores. Torres de resfriamento evaporativo captam recursos hídricos potáveis das redes municipais e dissipam esse volume na atmosfera em forma de vapor. Diante da escassez hídrica global, o uso de água potável para a infraestrutura de TI configura um desafio ambiental e social crítico. Assim, o problema central desta pesquisa é compreender como o resfriamento de data centers afeta as reservas locais de água potável e quais estratégias podem mitigar essa dependência. O objetivo deste estudo é analisar o impacto do consumo hídrico nas infraestruturas computacionais e identificar as soluções tecnológicas e algorítmicas de sustentabilidade.
 
 ## Metodologia
 
@@ -34,7 +34,7 @@ A literatura aponta que a refrigeração de data centers opera sob uma pegada h�
 
 ### Soluções práticas de engenharia e mitigação algorítmica
 
-Para conter esse desperdício, os estudos propõem duas abordagens principais. No campo da infraestrutura, Yáñez-Barnuevo (2025) e MacKay et al. (2021) defendem a substituição de torres evaporativas por tecnologias de resfriamento por imersão líquida (*Immersion Cooling*) e circuitos fechados (*Direct-to-Chip*), reduzindo o consumo direto de água a patamares próximos de zero. Por outro lado, no âmbito do software, Li et al. (2024) propõem o agendamento espacial de tarefas (*water-aware spatial scheduling*), algoritmo que redireciona o processamento intensivo em tempo real para data centers situados em regiões de menor estresse hídrico ou com temperaturas amena.
+Para resolver esse desperdício, os pesquisadores apontam dois caminhos principais. O primeiro foca nos equipamentos (hardware): Yáñez-Barnuevo (2025) e MacKay et al. (2021) defendem a substituição das velhas torres de evaporação por sistemas fechados de resfriamento líquido ou por imersão, o que reduz o consumo direto de água a quase zero. O segundo foca nos programas (software): Li et al. (2024) sugerem o uso de algoritmos inteligentes para enviar tarefas de computação pesadas, em tempo real, para data centers localizados em regiões mais frias ou com maior disponibilidade de água.
 
 ### Síntese crítica
 
